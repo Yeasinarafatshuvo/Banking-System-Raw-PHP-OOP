@@ -1,0 +1,22 @@
+{
+    "name": "banking-system/core",
+    "description": "Professional Banking System with OOP and Exception Handling",
+    "type": "project",
+    "require": {
+        "php": "^7.4|^8.0",
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BankingSystem\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BankingSystem\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}

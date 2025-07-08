@@ -1,0 +1,7 @@
+# Composer dependencies
+/vendor/
+
+# Logs
+/logs/
+*.log
+

@@ -22,7 +22,7 @@ A secure, object-oriented banking system with complete transaction processing an
 - Composer 2.0+
 
 ### Installation
-git clone https://github.com/yourusername/php-banking-system.git
+git clone https://github.com/yourusername/php-banking-system.git](https://github.com/Yeasinarafatshuvo/Banking-System-Raw-PHP-OOP.git
 
 # Install dependencies
 composer install
